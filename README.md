@@ -14,3 +14,6 @@ file system.
 
 ## How To Contibute
 Publish
+
+### Copyright
+2020 Git. Training.
